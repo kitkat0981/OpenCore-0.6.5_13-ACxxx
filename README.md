@@ -14,7 +14,6 @@ Realtek ALC295
 This is my setup for my laptop. Everything seems to be working although cannot boot straight from EFI partition on M.2 Getting error AAPL: #[EB|LOG:EXITBS:START] and nothing on Dortania's Troubleshooting guide seems to work. If you find something that works please let me know.
 
 Working:
-
 iMessage
 Facetime
 Wifi (using Airportitlwm)
