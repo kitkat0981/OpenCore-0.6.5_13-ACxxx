@@ -16,22 +16,16 @@ This is my setup for my laptop. Everything seems to be working although cannot b
 What is working:
 * iMessage
 * Facetime
-
-
-Working:
-*iMessage
-*Facetime
-*Wifi (using Airportitlwm)
-Bluetooth mouse (using the Microsoft Scultp Comfort) unsure about other bluetooth devices)
-Airplay to Samsung 8 series TV
-Audio speakers builtin
-Microphone
-sleep (although sometimes wifi wont come back on it's own, must turn off wifi and turn back on)
+* Wifi (using Airportitlwm kext)
+* Bluetooth mouse (using I2C kext with a Microsoft Scuplt Comfort mouse, unsure about other Bluetooth debvices)
+* Airplay to a Samsung Series 8 TV
+* Audio speakers builtin
+* Microphone
+* Sleep (although sometimes the wifi wont come back on it's own, must turn off wifi and turn back on)
 
 What is not working:
-Battery indicator (dont know how to make this work)
-Maps
-
-
+* Battery indicator (dont know how to make this work)
+* Maps
+* booting stright from EFI patition on local drive. I use a USB key and make it priority during boot although this occupies the single USB A port on the laptop. Reffer to the post below for the Reddit post issue.
 
 [Link to my Reddit post for the issue with EXITSB:START](https://www.reddit.com/r/hackintosh/comments/kvrnha/laptop_hp_spectre_x360_model_13acxxx_stuck_at/)
