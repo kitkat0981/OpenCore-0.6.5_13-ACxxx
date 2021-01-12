@@ -3,13 +3,13 @@ HP Spectre x360 model 13-AC010CA Hackintosh OpenCore 0.6.5
 
 Setup is:
 
-Dualboot Windows and MacOS BigSur
-HP Spctre x360 model 13-AC010CA
-i5-7200 Kaby Lake 7th gen
-8gb RAM
-Intel HD620
-Intel AC8265
-Realtek ALC295
+* Dualboot Windows and MacOS BigSur 11.1
+* HP Spctre x360 model 13-AC010CA
+* i5-7200 Kaby Lake 7th gen
+* 8gb RAM
+* Intel HD620
+* Intel AC8265
+* Realtek ALC295
 
 This is my setup for my laptop. Everything seems to be working although cannot boot straight from EFI partition on M.2 Getting error AAPL: #[EB|LOG:EXITBS:START] and nothing on Dortania's Troubleshooting guide seems to work. If you find something that works please let me know.
 
