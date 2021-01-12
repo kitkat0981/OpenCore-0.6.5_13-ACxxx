@@ -28,3 +28,5 @@ Battery indicator (dont know how to make this work)
 Maps
 
 
+
+[Link to my Reddit post for the issue with EXITSB:START](https://www.reddit.com/r/hackintosh/comments/kvrnha/laptop_hp_spectre_x360_model_13acxxx_stuck_at/)
