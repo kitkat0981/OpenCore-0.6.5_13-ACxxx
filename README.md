@@ -1,4 +1,4 @@
-# OpenCore-0.6.5_13-ACxxx
+# OpenCore-0.6.5_13-ACxxx MacOS BigSur 11.1
 HP Spectre x360 model 13-AC010CA Hackintosh OpenCore 0.6.5
 
 Setup is:
