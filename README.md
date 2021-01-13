@@ -28,4 +28,5 @@ What is not working:
 * booting stright from EFI patition on local drive. I use a USB key and make it priority during boot although this occupies the single USB A port on the laptop. Reffer to the post below for the Reddit post issue.
 
 [Link to my Reddit post for the issue with EXITSB:START](https://www.reddit.com/r/hackintosh/comments/kvrnha/laptop_hp_spectre_x360_model_13acxxx_stuck_at/)
+
 See the Reddit post, looks like this issue has a workaround in Clover. I haven't tried it myself. Will add the EFI for clover once I get it.
