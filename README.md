@@ -21,10 +21,10 @@ What is working:
 * Audio speakers builtin
 * Microphone
 * Sleep (although sometimes the wifi wont come back on it's own, must turn off wifi and turn back on)
+* Maps
 
 What is not working:
-* Battery indicator (dont know how to make this work)
-* Maps
+* Battery indicator (dont know how to make this work. Trying to patch the DSDT but not working out. Need help)
 * booting stright from EFI patition on local drive. I use a USB key and make it priority during boot although this occupies the single USB A port on the laptop. Reffer to the post below for the Reddit post issue.
 
 [Link to my Reddit post for the issue with EXITSB:START](https://www.reddit.com/r/hackintosh/comments/kvrnha/laptop_hp_spectre_x360_model_13acxxx_stuck_at/)
